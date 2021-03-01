@@ -285,9 +285,9 @@
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(6, 203);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(60, 20);
+            this.label7.Size = new System.Drawing.Size(99, 20);
             this.label7.TabIndex = 14;
-            this.label7.Text = "Nopeus";
+            this.label7.Text = "Nopeus (m/s)";
             // 
             // textBoxYPos
             // 
